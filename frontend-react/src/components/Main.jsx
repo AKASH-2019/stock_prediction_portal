@@ -13,7 +13,7 @@ const Main = () => {
               <p className="lead text-light">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis hic voluptatum praesentium, veniam, blanditiis laboriosam laborum fuga amet obcaecati nemo repudiandae mollitia magni. Aliquid reiciendis nobis, ducimus maxime vel, nostrum, excepturi suscipit tenetur tempore omnis facilis? Et iste, eos, natus tenetur nihil ducimus asperiores possimus neque obcaecati, eligendi unde nulla.
               </p>
-              <Button text='Explore Now' class='btn-outline-info'/>
+              <Button text='Explore Now' class='btn-outline-info' url='/dashboard' />
           </div>
       </div>
       
